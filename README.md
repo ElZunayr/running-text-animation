@@ -46,7 +46,7 @@ git clone https://github.com/ElZunayr/running-text-animation.git
 Once your pull request has been merged, you can delete your branch.
 
 ## 🧰 Video Youtube
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/B2qvjgZ09i8/mqdefault.jpg?v=67000234&sqp=CPismbgG&rs=AOn4CLCSkKybTxRDhD98FQhdSlkBGLnE7g)](https://youtu.be/B2qvjgZ09i8)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/B2qvjgZ09i8/mqdefault.jpg?v=671a1feb&sqp=CMSahrkG&rs=AOn4CLBAhPnbZ1420P9JxHUzB53-70euyQ)](https://youtu.be/B2qvjgZ09i8)
 
 ## 📝 License
 
@@ -58,7 +58,7 @@ Made with by EL Zunayr Development
 
 ---
 
-Support El Zunayr :wave: [Get in touch](buymeacoffee.com/elzunayr)
+Support El Zunayr :wave: [Get in touch](https://sociabuzz.com/elzunayr)
 
 ## 🔗 References
 - https://youtu.be/9JMbjNChjNM?si=fkun6uan-7li89at
